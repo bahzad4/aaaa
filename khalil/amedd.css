@@ -1,0 +1,42 @@
+.nav{
+    width: 1200px;
+    margin :0 auto;
+ 
+}
+body{
+margin: 0;
+background-color: #dedede;
+}
+nav{
+height: 40px;
+background: #323232; 
+margin-bottom: 50px;
+}
+nav ul{
+list-style-type: none;
+display: flex;
+padding: 0;
+margin: 0 auto;
+justify-content: space-around;
+align-items: center;
+height: 40PX;
+
+}
+nav a{
+color:white;
+text-decoration: none;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+nav a:hover{
+color: #b8b8b8;   
+
+}
+.cont{
+max-width: 1400px;
+margin: 0 auto;
+
+}
+.main{
+background-color: white;
+padding: 10px;
+}
